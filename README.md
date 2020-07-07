@@ -8,14 +8,10 @@
     This project was developed to facilitate and organize the appointments of a hairdresser.
   <br />
   <br />
-    In WEB, hairdressers <strong>can register yourself</strong> to appear in mobile app and <strong>receive notifications of new appointments</strong>, in MOBILE, a customer <strong>can view all registered hairdresses</strong>, <strong>select one</strong> and <strong>make an appointment</strong> with him.
+    In web, hairdressers <strong>can register yourself</strong> to appear in mobile app and <strong>receive notifications of new appointments</strong>, in mobile app, a customer <strong>can view all registered hairdresses</strong>, <strong>select one</strong> and <strong>make an appointment</strong> with him.
   <br />
   <br />
-  <h3 align="center">WEB Technologies</h3>
-    - ReactJS
-    - Typescript
-    - Styled components
-    - Unform
+    The web project was developed with Typescript, ReactJS, Styled Components, Unform, etc. The mobile app project was developed with Typescript, React Native, Unform, Styled Components, etc. The backend project was developed with Typescript, Express, TypeORM, and used 3 databases (Postgres, Redis and MongoDB)
   <br />
   <br />
   <br />
