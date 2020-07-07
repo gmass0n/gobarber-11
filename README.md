@@ -2,7 +2,9 @@
   <a href="https://github.com/gmass0n/gobarber-11">
     <img src="./.github/logo.svg" alt="GoBarber">
   </a>
-  <h3 align="center">GoBarber WEB & Mobile</h3>
+  <h3 align="center">
+    ## GoBarber WEB & Mobile
+  </h3>
   <p align="center">
   <br />
     This project was developed to facilitate and organize the appointments of a hairdresser.
