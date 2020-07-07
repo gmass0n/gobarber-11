@@ -8,10 +8,14 @@
     This project was developed to facilitate and organize the appointments of a hairdresser.
   <br />
   <br />
-    In WEB, <strong>hairdressers can register yoursel</strong> to appear in mobile app and <strong>receive notifications of new appointments</strong>, in MOBILE, <strong>a customer can view all registered hairdresses</strong>, <strong>select one</strong> and <strong>make an appointment</strong> with him.
+    In WEB, hairdressers <strong>can register yourself</strong> to appear in mobile app and <strong>receive notifications of new appointments</strong>, in MOBILE, a customer <strong>can view all registered hairdresses</strong>, <strong>select one</strong> and <strong>make an appointment</strong> with him.
   <br />
   <br />
-    This project was development with Typescript, Expo CLI and others technologies.
+  <h3 align="center">WEB Technologies</h3>
+    - ReactJS
+    - Typescript
+    - Styled components
+    - Unform
   <br />
   <br />
   <br />
