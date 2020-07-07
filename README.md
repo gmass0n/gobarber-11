@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gmass0n/gobarber-11">
-    <img src="./.github/gobarber.png" alt="GoBarber">
+    <img src="./.github/logo.svg" alt="GoBarber">
   </a>
   <h3 align="center">GoBarber WEB & Mobile</h3>
   <p align="center">
