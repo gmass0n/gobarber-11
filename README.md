@@ -3,7 +3,7 @@
     <img src="./.github/logo.svg" alt="GoBarber">
   </a>
   <h3 align="center">
-    ## GoBarber WEB & Mobile
+    GoBarber WEB & Mobile
   </h3>
   <p align="center">
   <br />
