@@ -5,10 +5,10 @@
   <h3 align="center">GoBarber WEB & Mobile</h3>
   <p align="center">
   <br />
-    This project can facilitate the recycling and reuse process, where it establishes a direct connection with companies that collect waste to people who need to dispose of this waste.
+    This project was developed to facilitate and organize the appointments of a hairdresser.
   <br />
   <br />
-    In WEB companies can <strong>register collect points</strong>, and in Mobile people can <strong>see all collect points registereds</strong> in a map and <strong>contact the responsible</strong>.
+    In WEB, <strong>hairdressers can register yoursel</strong> to appear in mobile app and <strong>receive notifications of new appointments</strong>, in MOBILE, <strong>a customer can view all registered hairdresses</strong>, <strong>select one</strong> and <strong>make an appointment</strong> with him.
   <br />
   <br />
     This project was development with Typescript, Expo CLI and others technologies.
